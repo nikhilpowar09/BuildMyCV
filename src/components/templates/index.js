@@ -1,0 +1,5 @@
+export { default as Classic }   from './Classic'
+export { default as Modern }    from './Modern'
+export { default as Minimal }   from './Minimal'
+export { default as Executive } from './Executive'
+export { default as Tech }      from './Tech'
